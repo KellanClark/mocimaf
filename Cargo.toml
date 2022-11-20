@@ -2,6 +2,6 @@
 [workspace]
 
 members = [
-    "mocimaf",
     "mocimaf_core",
+    "mocimaf",
 ]
